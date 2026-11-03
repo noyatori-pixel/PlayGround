@@ -16,3 +16,9 @@
 - 👤 [Explore the creator's projects](https://omgithub.com/noyatori-pixel).
 - 🌍 [Create with OMGithub](https://omgithub.com).
 <!-- omgithub:readme:end -->
+
+## After the Last Train
+
+A complete, browser-playable interactive drama about trust, boundaries, and a complicated late-night conversation. All characters are adults. Choices shape the story and lead to three possible endings; progress saves locally in your browser.
+
+Open `index.html` in a browser to play, or serve this folder with any static web server.
